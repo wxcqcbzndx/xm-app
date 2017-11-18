@@ -1,5 +1,5 @@
 {
-  "name": "h532-app",
+  "name": "xm-app",
   "version": "1.0.0",
   "description": "this  is a test app",
   "main": "gulpfile.js",
@@ -8,17 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xdljun/h532-app.git"
+    "url": "git+https://github.com/wxcqcbzndx/xm-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xdljun/h532-app/issues"
+    "url": "https://github.com/wxcqcbzndx/xm-app/issues"
   },
-  "homepage": "https://github.com/xdljun/h532-app#readme",
+  "homepage": "https://github.com/wxcqcbzndx/xm-app#readme",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
   }
 }
